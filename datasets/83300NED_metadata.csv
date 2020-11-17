@@ -1,0 +1,483 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Emissies naar lucht door de Nederlandse economie; nationale rekeningen";"Emissies naar lucht;nationale rekeningen";"83300NED";"Emissies naar lucht, milieurekeningen, broeikasgassen, klimaatverandering
+luchtvervuiling, CO2, luchtverontreiniging, fijnstof, luchtemissies";"2020-11-09T02:00:00";"ActualiseringBijzonder";"";"nl";"CBS";"Perjaar";"1990-2019";"
+De gegevens in deze tabel zijn afkomstig uit de luchtemissierekeningen welke onderdeel uitmaken van de milieurekeningen die CBS jaarlijks samenstelt. De tabel bevat cijfers over emissies van schadelijke stoffen naar lucht voor zover die samenhangen met Nederlandse economische activiteiten (inclusief emissies van Nederlanders in het buitenland, exclusief emissies van niet-ingezetenen in Nederland). De uitstoot van deze stoffen wordt gerelateerd aan deze activiteiten. De emissies van stoffen die worden veroorzaakt door natuurlijke bronnen worden niet meegenomen, omdat de relatie met een economische activiteit ontbreekt. Emissies van verontreinigende stoffen en gassen uit zowel stationaire bronnen (zoals elektriciteitscentrales) als uit mobiele bronnen (zoals het wegverkeer) worden toegerekend aan de verschillende bedrijfstakken en huishoudens. De verontreinigende stoffen die worden onderscheiden zijn: CO (koolmonoxide); CO2 (kooldioxide); CH4 (methaan); N2O (distikstofoxide, ook wel lachgas genoemd); NOx (stikstofoxiden, verzameling); SO2 (zwaveldioxide); NH3 (ammoniak); PM10 (fijn stof met een diameter kleiner dan 10 micrometer); NMVOS (vluchtige organische stoffen exclusief methaan CH4). Doordat de gegevens in de milieurekeningen direct aansluiten op de economische gegevens in de nationale rekeningen, is het mogelijk om de gevolgen van de economische prestaties van Nederland voor het milieu cijfermatig in beeld te brengen.
+ 
+Gegevens beschikbaar vanaf: 1990
+
+Status van de cijfers: 
+De cijfers van het laatste jaar hebben een voorlopige status. 
+De cijfers uit de luchtemissierekeningen zijn volgtijdelijk vergelijkbaar en consistent met de economische cijfers in de nationale rekeningen. De afstemming tussen de milieurekeningen en de nationale rekeningen vindt echter plaats met een verscheidenheid aan bronnen. Dit betekent dat, hoewel de systematiek van de berekeningen ieder jaar hetzelfde is, er variatie kan optreden door veranderingen bij bepaalde bronnen. Zo kunnen wijzigingen van emissiefactoren in de emissieregistratie en aanpassingen in de verkeers- en vervoersstatistieken effect hebben op de volledige tijdreeks van de luchtemissierekeningen. Om consistente tijdreeksen te verkrijgen wordt dan ook ieder jaar de complete tijdreeks (her)berekend, zodat ook de laatste inzichten worden meegenomen.
+
+Wijzigingen per november 2020:
+Cijfers over 2019 zijn toegevoegd, cijfers over eerdere verslagjaren kunnen zijn aangepast conform de revisiestrategie. Zie status van de cijfers.
+
+De kwaliteit van de emissies van het wegvervoer is verbeterd. De emissies worden berekend per voertuig, waarbij de wegverkeersprestaties van recente jaren zijn aangepast op grond van de laatste gegevens van de Nationale Autopas (RDW). 
+
+Wanneer komen er nieuwe cijfers?
+Nieuwe cijfers worden jaarlijks gepubliceerd in november.
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+De gegevens in deze tabel zijn afkomstig uit de luchtemissierekeningen welke onderdeel uitmaken van de milieurekeningen die CBS jaarlijks samenstelt. De tabel bevat cijfers over emissies van schadelijke stoffen naar lucht voor zover die samenhangen met Nederlandse economische activiteiten (inclusief emissies van Nederlanders in het buitenland, exclusief emissies van niet-ingezetenen in Nederland). De uitstoot van deze stoffen wordt gerelateerd aan deze activiteiten. De emissies van stoffen die worden veroorzaakt door natuurlijke bronnen worden niet meegenomen, omdat de relatie met een economische activiteit ontbreekt. Emissies van verontreinigende stoffen en gassen uit zowel stationaire bronnen (zoals elektriciteitscentrales) als uit mobiele bronnen (zoals het wegverkeer) worden toegerekend aan de verschillende bedrijfstakken en huishoudens. De verontreinigende stoffen die worden onderscheiden zijn: CO (koolmonoxide); CO2 (kooldioxide); CH4 (methaan); N2O (distikstofoxide, ook wel lachgas genoemd); NOx (stikstofoxiden, verzameling); SO2 (zwaveldioxide); NH3 (ammoniak); PM10 (fijn stof met een diameter kleiner dan 10 micrometer); NMVOS (vluchtige organische stoffen exclusief methaan CH4). Doordat de gegevens in de milieurekeningen direct aansluiten op de economische gegevens in de nationale rekeningen, is het mogelijk om de gevolgen van de economische prestaties van Nederland voor het milieu cijfermatig in beeld te brengen.
+ 
+Gegevens beschikbaar vanaf: 1990
+
+Status van de cijfers: 
+De cijfers van het laatste jaar hebben een voorlopige status. 
+De cijfers uit de luchtemissierekeningen zijn volgtijdelijk vergelijkbaar en consistent met de economische cijfers in de nationale rekeningen. De afstemming tussen de milieurekeningen en de nationale rekeningen vindt echter plaats met een verscheidenheid aan bronnen. Dit betekent dat, hoewel de systematiek van de berekeningen ieder jaar hetzelfde is, er variatie kan optreden door veranderingen bij bepaalde bronnen. Zo kunnen wijzigingen van emissiefactoren in de emissieregistratie en aanpassingen in de verkeers- en vervoersstatistieken effect hebben op de volledige tijdreeks van de luchtemissierekeningen. Om consistente tijdreeksen te verkrijgen wordt dan ook ieder jaar de complete tijdreeks (her)berekend, zodat ook de laatste inzichten worden meegenomen.
+
+Wijzigingen per november 2020:
+Cijfers over 2019 zijn toegevoegd, cijfers over eerdere verslagjaren kunnen zijn aangepast conform de revisiestrategie. Zie status van de cijfers.
+
+De kwaliteit van de emissies van het wegvervoer is verbeterd. De emissies worden berekend per voertuig, waarbij de wegverkeersprestaties van recente jaren zijn aangepast op grond van de laatste gegevens van de Nationale Autopas (RDW). 
+
+Wanneer komen er nieuwe cijfers?
+Nieuwe cijfers worden jaarlijks gepubliceerd in november.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Luchtemissies
+Uitstoot van verontreinigende stoffen naar de lucht.
+
+Emissiefactor
+Uitstoot per activiteitseenheid, bijvoorbeeld per afgelegde kilometer of per kilogram verbruikte brandstof.
+
+Stationaire bronnen
+Vaste installaties of andere vaste puntbronnen. Hiertoe worden gerekend vaste installaties voor het opwekken van warmte en/of elektriciteit, voorzieningen waarin industriële processen plaatsvinden, afvalverbrandingsinstallaties en opslag- en verslagactiviteiten die emissies veroorzaken. Tot de emissies van stationaire bronnen worden alle emissies gerekend die niet worden veroorzaakt door mobiele bronnen.
+
+Mobiele bronnen
+Specifieke bronnen voor emissies, zoals de voertuigen die worden gebruikt voor het vervoer van goederen, het vervoer van personen en de mobiele werktuigen. De belangrijkste oorzaak van emissies door mobiele bronnen is de verbranding van motorbrandstof. Daarnaast ontstaan emissies door de slijtage van banden, remmen en het wegdek of de verdamping van brandstof. 
+Bij de emissies door mobiele bronnen wordt ook het internationaal weg-, lucht- en zeetransport door Nederlands ingezetenen meegerekend.
+
+Standaard Bedrijfsindeling 2008 (SBI 2008):
+De Nederlandse hiërarchische indeling van economische activiteiten die door het CBS wordt gebruikt om bedrijfseenheden in te delen naar hun hoofdactiviteit. De SBI 2008 is de versie die vanaf 2008 gebruikt wordt.
+
+'Bedrijfstak' of 'branche' zijn gangbare termen voor groepen van bedrijven met dezelfde hoofdactiviteit. Het CBS hanteert voor de indeling van bedrijven naar hoofdactiviteit de zogenoemde Standaard Bedrijfsindeling (SBI). Bedrijven in een bedrijfstak of branche kunnen naast deze activiteit ook andere activiteiten (nevenactiviteiten) uitoefenen.
+De SBI 2008 kent meerdere niveaus die aangegeven worden door maximaal vijf cijfers. Het niveau van vier cijfers komt vrijwel overeen met de indeling van de Europese Unie (NACE). De eerste twee cijfers komen overeen met die van de indeling van Verenigde Naties (ISIC).
+
+Verklaring van symbolen:
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+Relevante tabellen:
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70946ned/table?dl=274EF/""/>Emissies van broeikasgassen berekend volgens de IPCC-voorschriften.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70947ned/table?dl=116D5/""/>Emissies naar lucht berekend volgens het NEC-protocol.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37221/table?dl=274F2/""/>Emissies naar lucht op Nederlands grondgebied; totalen.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7062/table?dl=274F6/""/>Emissies naar lucht op Nederlands grondgebied; mobiele bronnen.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83390NED/table?dl=274F7/""/>Emissies naar lucht op Nederlands grondgebied; stationaire bronnen.</a>
+
+Relevante artikelen:
+<a href=/""/https://www.cbs.nl/nl-nl/achtergrond/2016/50/broeikasgasemissies-door-de-nederlandse-economie/""/>Broeikasgasemissies door de Nederlandse economie.</a>
+Algemene informatie over de economie is te vinden op de themapagina <a href=/""/https://www.cbs.nl/nl-nl/economie/macro-economie/""/>Macro-economie.</a>
+
+Compendium voor de Leefomgeving (CBS, PBL, en WUR):
+<a href=/""/http://www.clo.nl/indicatoren/nl0170-de-co2-emissie-verklaard/""/>CO2-emissies verklaard.</a>
+<a href=/""/https://www.clo.nl/indicatoren/nl0165-broeikasgasemissies-in-nederland/""/>Emissies broeikasgassen, 1990-2019.</a>
+<a href=/""/http://www.emissieregistratie.nl/erpubliek/bumper.nl.aspx/""/>Emissieregistratie</a> (CBS, Deltares, PBL, RIVM, RWS-WD, TNO, WUR-Alterra).
+
+Meer informatie is te vinden op de themapagina’s <a href=/""/https://www.cbs.nl/nl-nl/maatschappij/natuur-en-milieu/milieurekeningen/""/>Milieurekeningen</a> en <a href=/""/https://www.cbs.nl/nl-nl/maatschappij/natuur-en-milieu/""/>Natuur en milieu</a>.
+
+4. BRONNEN EN METHODEN
+
+In de luchtemissierekeningen worden de door Nederlandse economische bedrijvigheid veroorzaakte emissies van schadelijke stoffen naar de lucht beschreven. De luchtemissierekeningen zijn consistent met de nationale  rekeningen. Hierdoor wijken de cijfers af van de cijfers in de emissieregistratie, de milieubalans en in rapportages aan het Intergovernmental Panel on Climate Change (IPCC) over broeikasgasemissies. In die publicaties wordt uitgegaan van de vervuiling op Nederlands grondgebied. De luchtemissierekeningen gaan, net als de nationale rekeningen, echter uit van de vervuiling door Nederlandse ingezetenen. Dit betekent dat vervuiling door ingezetenen in het buitenland wél en vervuiling door niet-ingezetenen in Nederland niet wordt meegenomen in de samenstelling van de luchtemissierekeningen.
+
+In de luchtemissierekeningen zijn de uitstoot van de afzonderlijke luchtverontreinigende stoffen en hun bijdrage aan de specifieke milieuproblemen (milieuthema's) opgenomen. De uitstoot van deze stoffen wordt toegewezen aan de verschillende economische activiteiten. Emissies die worden veroorzaakt door natuurlijke bronnen, zoals methaan dat vrijkomt uit veenbodems of kooldioxide dat vrijkomt bij de afbraak van organisch materiaal in de natuur, worden niet meegenomen.
+
+De emissies van stationaire bronnen worden met het emissieregistratiebestand aan de verschillende bedrijfstakken toegewezen.
+De emissies van mobiele bronnen worden met behulp van onder andere vervoersprestaties en brandstofverbruik herverdeeld over de verschillende bedrijfstakken. Zo kan de gedetailleerde emissietabel worden opgesteld. De milieuthema's die worden onderscheiden zijn het broeikaseffect, de aantasting van de ozonlaag en verzuring.
+
+In de berekeningen van de onderliggende feitelijke emissies en t.b.v. van de IPCC is in 2015 voor berekening van de emissies overgegaan op nieuwe IPCC 2006 richtlijnen. 
+
+Voor de CO2 emissies van de luchtvaart zijn cijfers gebruikt van de <a href=/""/https://stats.oecd.org/Index.aspx?DataSetCode=AEA/""/>OECD</a>.Deze gegevens zijn berekend conform de richtlijnen van de luchtemissierekeningen. 
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving <a href=/""/https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/milieurekeningen/""/>Milieurekeningen</a>.
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/contactformulier'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.
+";"ts=1604493181534&graphtype=Table&r=Perioden&k=NederlandseEconomie&t=Topics";"$filter=((Perioden eq '2005JJ00') or (Perioden eq '2006JJ00') or (Perioden eq '2007JJ00') or (Perioden eq '2008JJ00') or (Perioden eq '2009JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2011JJ00') or (Perioden eq '2012JJ00') or (Perioden eq '2013JJ00') or (Perioden eq '2014JJ00') or (Perioden eq '2015JJ00') or (Perioden eq '2016JJ00') or (Perioden eq '2017JJ00') or (Perioden eq '2018JJ00') or (Perioden eq '2019JJ00'))&$select=NederlandseEconomie, Perioden, CO2_1";"Table,Bar,Line";"Regulier";"CBS.";"2020-11-09T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"NederlandseEconomie";"Nederlandse economie";"";;;;;
+"1";"1";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"2";;;"TopicGroup";"";"Broeikasgassen (klimaatverandering)";"Broeikasgassen houden een deel van de warmte die op aarde terecht komt door zonnestraling vast. Door de toegenomen concentratie broeikasgassen in de atmosfeer wordt meer warmte vastgehouden en neemt de temperatuur van het aardoppervlak toe. Dit noemt men het versterkte broeikaseffect.
+De belangrijkste broeikasgassen zijn kooldioxide (CO2), methaan (CH4), lachgas (N2O), HFK's, PFK's en SF6.";;;;;
+"3";"2";"2";"Topic";"CO2_1";"CO2";"Kooldioxide.";;"Double";"mln kg";"0";"Impossible"
+"4";"3";"2";"Topic";"N2O_2";"N2O";"Lachgas.";;"Double";"mln kg";"1";"Impossible"
+"5";"4";"2";"Topic";"CH4_3";"CH4";"Methaan.";;"Double";"mln kg";"1";"Impossible"
+"6";"5";"2";"Topic";"BroeikasgasEquivalent_4";"Broeikasgas-equivalent";"Maatstaf die aangeeft in welke mate een stof bijdraagt aan het broeikaseffect. Eén broeikasgas-equivalent staat gelijk aan het effect dat de uitstoot van 1 kg kooldioxide (CO2) heeft. Zo staat de uitstoot van 1 kg methaan (CH4) gelijk aan 25 broeikasgas-equivalenten en is de uitstoot van 1 kg lachgas (N2O) gelijk aan 298 broeikasgas-equivalenten. De fluor(chloor)gassen hebben elk afzonderlijk een hoog CO2-equivalent. Hun bijdrage is echter gering omdat de uitgestoten hoeveelheden relatief klein zijn. De fluorchloorgassen zijn niet afzonderlijk in de tabel opgenomen maar wel inbegrepen in het totaal.";;"Long";"x mln";"0";"Impossible"
+"7";;;"TopicGroup";"";"Verzurende stoffen (verzuring)";"Proces waarbij bodem en water zuurder worden als gevolg van de belasting door verontreinigende stoffen, zoals NOX, SO2, NH3 en VOS (Vluchtige Organische Stoffen).
+De verzurende stoffen worden, samen met andere luchtverontreinigende stoffen (VOS en fijn stof), geschaard onder het thema: /""/Verzuring en grootschalige luchtverontreiniging/""/ van het Nederlandse milieubeleid.";;;;;
+"8";"6";"7";"Topic";"NOx_5";"NOx";"Stikstofoxiden (NOx = NO en NO2, berekend als NO2).
+Veroorzaakt verzuring en speelt een rol bij smogvorming.";;"Double";"mln kg";"1";"Impossible"
+"9";"7";"7";"Topic";"SO2_6";"SO2";"Zwaveldioxide.";;"Double";"mln kg";"1";"Impossible"
+"10";"8";"7";"Topic";"NH3_7";"NH3";"Ammoniak";;"Double";"mln kg";"1";"Impossible"
+"11";"9";"7";"Topic";"ZuurEquivalent_8";"Zuur-equivalent";"Maatstaf die aangeeft in welke mate een stof bijdraagt aan verzuring van het milieu. De emissie van 1 kg stikstofoxiden (NOx)  is gelijk gesteld aan 21,7 zuur-equivalent, de emissie van 1 kg zwaveldioxide (SO2) is gelijk aan 31,3 zuur-equivalent en de emissie van 1 kg ammoniak (NH3) is gelijk aan 58,8 zuur-equivalent.
+
+Een zuur-equivalent (zeq) is gelijk aan één mol H+. ";;"Double";"x mld";"1";"Impossible"
+"12";;;"TopicGroup";"";"Ozon aantastende stoffen";"Aantasting van de ozonlaag ten gevolge van de uitstoot van CFK's en halonen naar de lucht, omgerekend naar CFK12-equivalenten.";;;;;
+"13";"10";"12";"Topic";"CFK12Equivalent_9";"CFK12-equivalent";"Maatstaf die aangeeft in welke mate een stof bijdraagt aan de aantasting van de ozonlaag. De emissies van chloorfluorkoolwaterstofverbindingen (CFK's) en halonen zijn omgerekend naar CFK12-equivalenten. De omrekenfactoren zijn bepaald op basis van de mate waarin de verschillende CFK's en halonen de ozonlaag aantasten.";;"Double";"x 1 000";"1";"Impossible"
+"14";;;"TopicGroup";"";"Overige luchtemissies";"Naast verzurende stoffen leveren een aantal andere luchtverontreinigende stoffen, zoals vluchtige organische stoffen en fijn stof, een bijdrage aan het milieuthema: /""/Verzuring en grootschalige luchtverontreiniging/""/.
+Hier worden afzonderlijk een aantal luchtverontreinigende stoffen, opgenomen, die niet onder een van de andere thema's zijn geschaard. Het gaat ondermeer om de uitstoot van Fijn stof (PM10) en koolmonoxide (CO) naar de lucht.";;;;;
+"15";"11";"14";"Topic";"CO_10";"CO";"Koolmonoxide.";;"Double";"mln kg";"1";"Impossible"
+"16";"12";"14";"Topic";"NMVOS_11";"NMVOS";"Vluchtige organische verbindingen, exclusief methaan (NMVOS).
+Smogvormend en soms carcinogeen.";;"Double";"mln kg";"1";"Impossible"
+"17";"13";"14";"Topic";"PM10_12";"PM10";"Stofdeeltjes met een aerodynamische diameter kleiner dan 10 µm. De aerodynamische diameter van een stofdeeltje is gelijk aan de diameter van een bolvormig deeltje dat in de omgevingslucht hetzelfde gedrag vertoont als dat stofdeeltje.
+Schadelijk voor de gezondheid, dringt diep door in longen.";;"Double";"mln kg";"1";"Impossible"
+"NederlandseEconomie"
+Key;Title;Description
+"1050010";"Totaal particuliere huishoudens";"Particuliere huishoudens: Een particulier huishouden bestaat uit een verzameling van één of meer personen die een woonruimte bewonen en zichzelf particulier, dat wil zeggen niet-bedrijfsmatig voorzien in huisvesting en dagelijkse levensbehoeften.
+Emissies van huishoudens die buitenshuis (op het werk, school in de horeca etc.) worden veroorzaakt, worden niet aan de bedrijfstakken toegerekend maar aan huishoudens. Hierdoor worden de emissies door
+huishoudens enigszins overschat."
+"B000579";"Totaal Nederlandse economie";"Hieronder vallen de emissies door huishoudens, producenten en de overige herkomst binnenland. Bij elkaar zijn dit de emissies van alle personen en bedrijven die behoren tot de Nederlandse economie: de zogenaamde ingezetenen."
+"B000580";"Eigen vervoer particuliere huishoudens";"Emissies naar de lucht veroorzaakt door eigen vervoersbewegingen van huishoudens"
+"B000581";"Overig particuliere huishoudens";"Emissies naar lucht veroorzaakt door overige activiteiten van huishoudens.
+Emissies van huishoudens die buitenshuis (op het werk, school in de horeca etc.) worden veroorzaakt, worden niet aan de bedrijfstakken toegerekend maar aan huishoudens. Hierdoor worden de emissies door
+huishoudens enigszins overschat."
+"T001081";"A-U Alle economische activiteiten";"Alle economische activiteiten
+Deze categorie is een samentelling van categorieën: 
+A Landbouw, bosbouw en visserij
+B Winning van delfstoffen
+C Industrie
+D Productie en distributie van en handel in elektriciteit, aardgas, stoom en gekoelde lucht
+E Winning en distributie van water; afval- en afvalwaterbeheer en sanering
+F Bouwnijverheid
+G Groot- en detailhandel; reparatie van auto's 
+H Vervoer en opslag 
+I Logies-, maaltijd- en drankverstrekking 
+J Informatie en communicatie
+K Financiële instellingen 
+L Verhuur van en handel in onroerend goed
+M Advisering, onderzoek en overige specialistische zakelijke dienstverlening
+N Verhuur van roerende goederen en overige zakelijke dienstverlening
+O Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen
+P Onderwijs
+Q Gezondheids- en welzijnszorg
+R Cultuur, sport en recreatie
+S Overige dienstverlening
+T Huishoudens als werkgever; niet-gedifferentieerde productie van goederen en diensten door huishoudens voor eigen gebruik
+U Extraterritoriale organisaties en lichamen"
+"301000 ";"A Landbouw, bosbouw en visserij";"Landbouw, bosbouw en visserij
+Deze sectie omvat:
+- de exploitatie van natuurlijke plantaardige en dierlijke hulpbronnen:
+  w.o. de akkerbouw, veeteelt en de productie van overige planten en dieren op een agrarisch bedrijf of in het natuurlijke leefgebied;
+  w.o. bosbouw, houtteelt en jacht;
+  w.o. specifieke loondiensten met betrekking tot het productieproces landbouw, jacht en bosbouw worden eveneens in deze sectie ingedeeld;
+  w.o. visserij: de vangst of het kweken van vis, schaaldieren en weekdieren."
+"300002 ";"B-E Nijverheid (geen bouw) en energie";"Nijverheid (geen bouw) en energie
+Deze categorie is een samentelling van categorieën: 
+B Winning van delfstoffen
+C Industrie
+D Productie en distributie van en handel in elektriciteit, aardgas, stoom en gekoelde lucht
+E Winning en distributie van water; afval- en afvalwaterbeheer en sanering"
+"305700 ";"B Delfstoffenwinning";"Winning van delfstoffen
+Deze sectie omvat:
+- de winning van in de natuur voorkomende mineralen in vaste vorm (steenkool, turf en erts), in vloeibare vorm (aardolie) of in de vorm van een gas (aardgas). Winning vindt plaats door middel van ondergrondse mijnbouw, dagbouw of boringen.
+Deze sectie omvat voorts bijkomende bewerkingen die voor het vervoer en de afzet van de minerale producten noodzakelijk zijn, bijvoorbeeld het vergruizen, malen, wassen, drogen, sorteren of concentreren van ertsen, het vloeibaar maken van aardgas en het briketteren van vaste brandstoffen.
+Deze werkzaamheden worden vaak door de eenheden die de delfstoffen winnen zelf uitgeoefend en/of door andere eenheden in de buurt van de winplaats.
+
+Deze sectie omvat ook:
+- de vervaardiging van steenkool- en bruinkoolbriketten, het sinteren van ertsen;
+- het vergruizen, malen of op andere wijze behandelen van bepaalde soorten aarde, steen en mineralen.
+
+Deze sectie omvat niet:
+- de verwerking van delfstoffen (sectie C);
+- de productie aan de bron van natuurlijk bron- of mineraalwater (1107);
+- de winning, zuivering en distributie van water (3600).
+"
+"307500 ";"C Industrie";"Industrie
+Deze sectie omvat:
+- de mechanische, fysische of chemische verwerking van materialen, stoffen of onderdelen tot nieuwe producten. De verwerkte materialen, stoffen of onderdelen zijn grondstoffen uit de landbouw, bosbouw, visserij en mijnbouw, alsmede (half)fabricaten uit de industrie.
+- reparatie en installatie van machines, apparatuur en andere benodigdheden voor bedrijven (geen consumentengoederen).
+
+Bij de eenheden in deze sectie gaat het vaak om fabrieken waar gewoonlijk machines en apparaten worden gebruikt. Eenheden waar materialen of stoffen met de hand of in de eigen woning tot nieuwe producten worden verwerkt en die producten op de plaats waar deze zijn gemaakt, zelf verkopen, zoals bakkerijen en kleermakerijen, vallen echter ook onder deze sectie.
+
+Industriële eenheden kunnen materialen zelf verwerken of dit aan andere eenheden uitbesteden. In beide gevallen valt dit onder de sectie Industrie.
+
+Reparatie van huishoudelijke apparaten en consumptiegoederen wordt ingedeeld in afdeling 95; 
+de reparatie van (bedrijfs-)auto's en motoren in afdeling 45: de autobranche.
+
+De vervaardiging van specifieke componenten en onderdelen, toebehoren en hulpstukken voor machines en apparaten wordt gewoonlijk ingedeeld in dezelfde klasse als de vervaardiging van de desbetreffende machines en apparaten.
+De vervaardiging van niet-specifieke componenten en onderdelen voor machines en apparatuur, zoals motoren, zuigers, elektromotoren,
+elektroinstallatiemateriaal, kleppen, kogellagers, rollagers, worden in de passende klasse van de sectie industrie ingedeeld.
+
+De sectie omvat niet:
+- activiteiten die niet leiden tot een nieuw product, maar tot een gewijzigde versie van hetzelfde product:
+* het opsplitsen van partijen stukgoederen in kleinere partijen, inclusief het verpakken, herverpakken;
+* het bottelen van producten als alcoholhoudende dranken of chemicaliën;
+* de montage van computers volgens de specifieke wensen van een klant;
+* het mengen van verf;
+Deze activiteiten worden ingedeeld in sectie G (groothandel en detailhandel)."
+"307610 ";"10-12 Voedings-, genotmiddelenindustrie";"Vervaardiging van voedingsmiddelen, dranken en tabaksproducten
+Deze categorie is een samentelling van categorieën:
+10 Vervaardiging van voedingsmiddelen
+11 Vervaardiging van dranken
+12 Vervaardiging van tabaksproducten"
+"312505 ";"13-15 Textiel-, kleding-, lederindustrie";"Vervaardiging van textiel, kleding en lederwaren
+Deze categorie is een samentelling van categorieën:
+13 Vervaardiging van textiel
+14 Vervaardiging van kleding
+15 Vervaardiging van leer, lederwaren en schoenen"
+"315810 ";"16-18 Hout-, papier-, grafische industr.";"Vervaardiging van artikelen van hout, papier en karton; drukkerijen
+Deze categorie is een samentelling van categorieën:
+16 Primaire houtbewerking en vervaardiging van artikelen van hout, kurk, riet en vlechtwerk (geen meubels)
+17 Vervaardiging van papier, karton en papier- en kartonwaren 
+18 Drukkerijen, reproductie van opgenomen media"
+"315800 ";"16 Houtindustrie";"Primaire houtbewerking en vervaardiging van artikelen van hout, kurk, riet en vlechtwerk (geen meubels)"
+"317100 ";"17 Papierindustrie";"Vervaardiging van papier, karton en papier- en kartonwaren"
+"318600 ";"18 Grafische industrie";"Drukkerijen, reproductie van opgenomen media"
+"320000 ";"19 Aardolie-industrie";"Vervaardiging van cokesovenproducten en aardolieverwerking"
+"320705 ";"20-21 Chemie en farmaceutische industrie";"Vervaardiging van chemische en farmaceutische grondstoffen en producten
+Deze categorie is een samentelling van categorieën:
+20 Vervaardiging van chemische producten
+21 Vervaardiging van farmaceutische grondstoffen en producten"
+"320700 ";"20 Chemische industrie";"Vervaardiging van chemische producten"
+"323200 ";"21 Farmaceutische industrie";"Vervaardiging van farmaceutische grondstoffen en producten"
+"323705 ";"22-23 Kunststof- en bouwmateriaalindustr";"Vervaardiging van producten van rubber en kunststof en van bouwmaterialen
+Deze categorie is een samentelling van categorieën:
+22 Vervaardiging van producten van rubber en kunststof
+23 Vervaardiging van overige niet- metaalhoudende minerale producten"
+"323700 ";"22 Rubber- en kunststofproductindustrie";"Vervaardiging van producten van rubber en kunststof"
+"324600 ";"23 Bouwmaterialenindustrie";"Vervaardiging van overige niet-metaalhoudende minerale producten
+Deze afdeling omvat vervaardiging van glas, keramische producten, cement, kalk en gips, producten van beton, gips en cement, en natuursteenbewerking"
+"328105 ";"24-25 Basismetaal, metaalprod.-industrie";"Vervaardiging van metalen in primaire vorm en van metaalproducten (geen machines en apparaten)
+Deze categorie is een samentelling van categorieën:
+24 Vervaardiging van metalen in primaire vorm
+25 Vervaardiging van producten van metaal (geen machines en apparaten)"
+"328100 ";"24 Basismetaalindustrie";"Vervaardiging van metalen in primaire vorm"
+"330300 ";"25 Metaalproductenindustrie";"Vervaardiging van producten van metaal (geen machines en apparaten)"
+"332910 ";"26-27 Elektrische en elektron. Industrie";"Vervaardiging van computers en elektronische, optische en elektrische apparatuur
+Deze categorie is een samentelling van categorieën:
+26 Vervaardiging van computers en van elektronische en optische apparatuur
+27 Vervaardiging van elektrische apparatuur"
+"332900 ";"26 Elektrotechnische industrie";"Vervaardiging van computers en van elektronische en optische apparatuur."
+"334800 ";"27 Elektrische apparatenindustrie";"Vervaardiging van elektrische apparatuur"
+"336500 ";"28 Machine-industrie";"Vervaardiging van overige machines en apparaten"
+"339205 ";"29-30 Transportmiddelenindustrie";"Vervaardiging van transportmiddelen
+Deze categorie is een samentelling van categorieën:
+29 Vervaardiging van auto's, aanhangwagens en opleggers
+30 Vervaardiging van overige transportmiddelen"
+"300023 ";"31-33 Overige industrie en reparatie";"Vervaardiging van meubels en overige goederen; reparatie en installatie van machines en apparaten
+Deze categorie is een samentelling van categorieën:
+31 Vervaardiging van meubels
+32 Vervaardiging van overige goederen
+33 Reparatie en installatie van machines en apparaten"
+"346600 ";"D Energievoorziening";"Productie en distributie van en handel in elektriciteit, aardgas, stoom en gekoelde lucht
+Deze sectie omvat:
+- productie en distributie van en handel in elektriciteit, aardgas en warm water."
+"348000 ";"E Waterbedrijven en afvalbeheer";"Winning en distributie van water; afval- en afvalwaterbeheer en sanering
+Deze sectie omvat:
+- winning en distributie van water;
+- afvalbehandeling en recycling."
+"350000 ";"F Bouwnijverheid";"Bouwnijverheid
+Deze sectie omvat:
+- algemene en gespecialiseerde bouwkundige en civieltechnische werken, de bouwinstallatie en de afwerking van gebouwen.
+Zij omvat ook nieuwbouw, reparatie, aan- en verbouwwerkzaamheden, het optrekken van geprefabriceerde gebouwen of constructies ter plaatse en van tijdelijke bouwwerken.
+
+Onder algemene bouw valt de bouw van woningen, kantoren, winkels en andere vormen van burgerlijke- en utiliteitsbouw enzovoort of de bouw of aanleg van zware constructies als autowegen, straten, bruggen, tunnels, spoorwegen, vliegvelden, havens en andere waterbouwkundige projecten, irrigatiesystemen, rioleringen, industriële installaties, pijpleidingen en elektriciteitsleidingen, sportvoorzieningen enzovoort. Deze werkzaamheden kunnen voor eigen rekening of voor een vast bedrag of op contractbasis worden uitgevoerd. Een deel van de werkzaamheden of soms zelfs alle uitvoerende werkzaamheden kunnen worden uitbesteed aan onderaannemers.
+
+Gespecialiseerde bouw omvat de bouw of aanleg van een gedeelte van bouwwerken en van civieltechnische werken of de hiervoor vereiste voorbereidende werkzaamheden. Er is gewoonlijk sprake van gespecialiseerde werkzaamheden ten behoeve van diverse bouwwerken, waarvoor specifieke ervaring of een speciale uitrusting nodig is. Het heien, leggen van funderingen, boren van waterputten, de cascobouw, het storten van beton, metselen, zetten van natuursteen, de bouw van steigers, dakbedekking enzovoort worden hiertoe gerekend. Gespecialiseerde bouwkundige werkzaamheden worden meestal aan onderaannemers uitbesteed, maar vooral reparaties worden in de bouw rechtstreeks voor de eigenaar van het onroerend goed uitgevoerd.
+
+De bouwinstallatie omvat de installatie van alle voorzieningen waardoor een bouwwerk als zodanig zijn functie kan vervullen. Deze werkzaamheden worden meestal op de bouwplaats zelf verricht, hoewel bepaalde gedeelten ervan in een werkplaats kunnen worden uitgevoerd. Inbegrepen zijn loodgieterswerk, de installatie van verwarmings- en klimaatregelingssystemen, alarmsystemen en andere elektrische apparatuur, sprinklerinstallaties, liften en roltrappen enzovoort. Ook vallen hieronder isolatiewerkzaamheden (vochtwering, warmte- en geluidsisolatie), het aanbrengen van metalen beplating, de installatie van commerciële koelapparatuur, verlichtings- en signaleringssystemen voor wegen, spoorwegen, luchthavens, havens enzovoort. Het uitvoeren van reparaties in verband met deze activiteiten is ook inbegrepen.
+
+De afwerking van gebouwen omvat werkzaamheden die zijn gericht op de afwerking of voltooiing van een bouwwerk, zoals glaszetten, stukadoorswerk, schilderen, sauzen, het aanbrengen van vloer- of wandtegels of van andere bekleding of bedekking zoals parket, tapijt, behang enzovoort, schuren van vloeren, aftimmeren, geluidstechnische werkzaamheden enzovoort. Het uitvoeren van reparaties in verband met deze activiteiten is ook inbegrepen.
+
+Deze sectie omvat niet:
+- de bouw of installatie van industriële apparatuur en machines (bijvoorbeeld de installatie van industriële ovens, turbines enzovoort)
+(sectie C);
+- het optrekken van volledige geprefabriceerde gebouwen of bouwwerken van zelf vervaardigde onderdelen wordt ingedeeld bij de toepasselijke rubriek van de sectie Industrie, afhankelijk van het materiaal waaruit deze voornamelijk bestaan. Indien dit echter beton is, wordt deze activiteit in deze afdeling ingedeeld.
+"
+"300006 ";"G-I Handel, vervoer en horeca";"Handel, vervoer en horeca
+Deze categorie is een samentelling van categorieën: 
+G Groot- en detailhandel; reparatie van auto's 
+H Vervoer en opslag 
+I Logies-, maaltijd- en drankverstrekking"
+"354200 ";"G Handel";"Groot- en detailhandel; reparatie van auto's
+Deze sectie omvat: 
+- de groot- en detailhandel (verkoop zonder aanbrengen van veranderingen) in alle soorten goederen en de diensten die bij de verkoop van goederen worden verleend;
+- tussenhandel/handelsbemiddeling;
+- reparatie van auto's en motoren.
+
+De verkoop zonder bewerking omvat de in de handel gebruikelijke handelingen, bijvoorbeeld sorteren, samenvoegen en combineren van goederen, mengen (versnijden) van goederen (bijvoorbeeld wijn of zand), bottelen (met of zonder reiniging van de fles vooraf), verpakken, opsplitsen en anders verpakken van partijen stukgoederen voor distributie in kleinere hoeveelheden, opslag (al dan niet bevroren of gekoeld), schoonmaken en drogen van landbouwproducten, snijden van houtvezel- of metalen platen voor eigen rekening.
+
+Groothandel is de wederverkoop (verkoop zonder aanbrengen van veranderingen) van nieuwe en gebruikte goederen aan de detailhandel, aan industriële en andere bedrijfsmatige gebruikers, of aan andere groothandelaren, alsmede de handelsbemiddeling bij de aankoop van goederen voor of de verkoop van goederen aan dergelijke personen of bedrijven. De belangrijkste soort van groothandel is de groothandel in goederen, dat wil zeggen groothandelaren die goederen verkopen die zij in eigendom hebben zoals grossiers, dealers, exporteurs, importeurs en coöperatieve inkooporganisaties, verkooporganisaties en verkoopkantoren (detailhandelsbedrijven uitgezonderd) van industriële ondernemingen, die tot taak hebben de producten ervan op de markt te brengen.
+
+Tussenhandel/handelsbemiddeling is het samenbrengen van koper en verkoper of het uitvoeren van transacties voor rekening van derden. Inbegrepen zijn makelaars op goederenbeurzen, commissionairs, en andere op commissiebasis werkzame tussenpersonen.
+
+Detailhandel is de wederverkoop (verkoop zonder aanbrengen van veranderingen) van nieuwe en gebruikte goederen hoofdzakelijk aan het publiek voor persoonlijk of huishoudelijk ge- of verbruik, op de markt of door winkels, warenhuizen, postorderbedrijven, straathandelaren, consumentencoöperaties, veilinghuizen enzovoort. De meeste detailhandelaren zijn eigenaar van de goederen die zij verkopen, maar sommigen werken als tussenpersoon voor een opdrachtgever en verkopen in consignatie dan wel op commissiebasis."
+"383100 ";"H Vervoer en opslag";"Vervoer en opslag
+Deze sectie omvat:
+- het vervoer van personen of goederen, al dan niet volgens een dienstregeling, per spoor, via een pijpleiding, over de weg, over water of door de lucht;
+- de ondersteunende activiteiten als terminal- en parkeerfaciliteiten, vrachtbehandeling, opslag enz.;
+- de posterijen;
+- de verhuur van transportmiddelen met bestuurder of bedienend personeel.
+
+Deze sectie omvat niet:
+- het onderhoud en de reparatie van auto's (45)."
+"383200 ";"49 Vervoer over land";"Vervoer over land
+Deze afdeling omvat:
+- personen- en goederenvervoer over de weg en per spoor.
+
+Deze klasse omvat niet:
+- exploitatie van toeristische spoorlijnen (93.21.1)."
+"384900 ";"50 Vervoer over water";"Vervoer over water
+Deze afdeling omvat:
+- vervoer van vracht en personen over zee en binnenwateren."
+"386300 ";"51 Vervoer door de lucht";"Luchtvaart
+Deze afdeling omvat: 
+- vervoer van passagiers en vracht door de lucht."
+"386800 ";"52 Opslag, dienstverlening voor vervoer";"Opslag en dienstverlening voor vervoer"
+"388400 ";"53 Post en koeriers";"Post en koeriers
+Deze afdeling omvat:
+- nationale en lokale postdiensten;
+- koeriersbedrijven."
+"389100 ";"I Horeca";"Logies-, maaltijd- en drankverstrekking
+Deze sectie omvat:
+- het aan gasten verschaffen van logies en/of bereide maaltijden, snacks en dranken voor onmiddellijke consumptie. 
+
+De verschillende activiteiten in sectie I overlappen elkaar in zekere mate, omdat bijvoorbeeld de verkoop van dranken een activiteit op zich is, maar ook deel uitmaakt van de activiteiten van een restaurant (waar bij de
+maaltijden dranken worden verstrekt) en dan met de verkoop van maaltijden bij 56.1 (Restaurants) wordt ingedeeld. Evenzo vormt de exploitatie van een restaurant een aparte activiteit, maar kan zij ook deel uitmaken van een bedrijf dat logies verschaft.
+
+Logiesverschaffende eenheden bieden reizigers, vakantiegangers en anderen accommodatie voor kortstondig verblijf (korter dan 3 maanden) aan. Er zijn vele verschillende eenheden. Sommige verschaffen alleen logies, terwijl andere naast logies ook maaltijden en recreatieve faciliteiten aanbieden. Het soort aanvullende dienstverlening kan van eenheid tot eenheid verschillen.
+
+Restaurants verstrekken volledige, voor onmiddellijke consumptie geschikte maaltijden, ongeacht of het traditionele restaurants, zelfbedienings- of afhaalrestaurants, dan wel permanente of tijdelijke viskramen en
+dergelijke met of zonder zitplaatsen zijn. Bepalend is het feit dat er voor onmiddellijke consumptie geschikte maaltijden worden aangeboden, niet het soort gelegenheid dat deze maaltijden verstrekt. 
+
+Deze sectie omvat niet:
+- de productie van maaltijden niet voor onmiddellijke consumptie geschikt of maaltijden of bereid voedsel dat niet als maaltijd wordt beschouwd (SBI 10: voedingsmiddelenindustrie);
+- de verkoop van niet zelf vervaardigd voedsel dat niet als maaltijd wordt beschouwd of van niet voor onmiddellijke consumptie geschikte maaltijden (SBI 46 groothandel of SBI 47 detailhandel afhankelijk van de afnemerscategorie)."
+"391600 ";"J Informatie en communicatie";"Informatie en communicatie
+Deze sectie omvat:
+- de productie en distributie van informatie, de voorziening van de infrastructuur om die informatie door te geven, alsmede activiteiten op het gebied van data- en communicatie-informatietechnologie en het bewerken van data en andere informatie.
+De belangrijkste activiteiten die hier ingedeeld worden zijn het uitgeven (afdeling 58, incl. het uitgeven van software), productie van films en geluidsopnamen (afdeling 59) radio en TV (afdeling 60), telecommunicatie (afdeling 61), informatietechnologie (afdeling 62) en andere dienstverlening op het gebied van informatie (afdeling 63). Uitgeven omvat ook het verkrijgen van de copyrights voor de content (informatieproducten) en het toegankelijk maken hiervan voor een breed publiek. Alle mogelijke vormen van uitgeven vallen onder deze sectie (in drukvorm, elektronisch of audio, op het internet, als multimediaproduct enzovoorts)."
+"396300 ";"K Financiële dienstverlening";"Financiële instellingen
+Deze sectie omvat:
+- financiële instellingen;
+- verzekeringswezen en pensioenfondsen (geen verplichte sociale verzekeringen);
+- financiële beurzen, effectenmakelaars, assurantietussenpersonen, administratiekantoren voor aandelen, waarborgfondsen en dergelijke."
+"402000 ";"L Verhuur en handel van onroerend goed";"Verhuur van en handel in onroerend goed
+Deze sectie omvat: 
+- verhuur van onroerend goed;
+- bemiddeling in en beheer van onroerend goed."
+"300010 ";"M-N Zakelijke dienstverlening";"Zakelijke dienstverlening
+Deze categorie is een samentelling van categorieën: 
+M Advisering, onderzoek en overige specialistische zakelijke dienstverlening
+N Verhuur van roerende goederen en overige zakelijke dienstverlening"
+"403300 ";"M Specialistische zakelijke diensten";"Advisering, onderzoek en overige specialistische zakelijke dienstverlening
+Deze sectie omvat: 
+- gespecialiseerde professionele wetenschappelijke en technische activiteiten. Deze activiteiten vereisen een hoge opleiding en stellen specifieke kennis ter beschikking."
+"410200 ";"N Verhuur en overige zakelijke diensten";"Verhuur van roerende goederen en overige zakelijke dienstverlening
+Deze sectie omvat:
+- activiteiten die zakelijke gebruikers ondersteunen bij de bedrijfsvoering. Het verschil van deze activiteiten met die uit sectie M is dat de activiteiten uit deze sectie niet primair gericht zijn op het overbrengen van expertise en kennis."
+"300012 ";"O-Q Overheid en zorg";"Overheid en zorg
+Deze categorie is een samentelling van categorieën: 
+O Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen
+P Onderwijs
+Q Gezondheids- en welzijnszorg"
+"417400 ";"O Openbaar bestuur en overheidsdiensten";"Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen
+Deze sectie omvat:
+- eenheden die deel uitmaken van de lagere of centrale overheid en die tot een goede werking van het bestuur van de samenleving bijdragen en ook het beheer van de verplichte sociale verzekeringsregelingen;
+- defensie, justitie, politie, buitenlandse zaken enzovoort;
+- het algemeen openbaar bestuur (bijvoorbeeld uitvoerende, wetgevende, financiële taken enzovoort op alle bestuursniveaus) en het toezicht op het economische en sociale leven;
+- provincies en gemeentes;
+- het beheer van de verplichte socialeverzekeringsregelingen.
+
+Activiteiten die elders in de SBI zijn geclassificeerd vallen niet onder afdeling 75, ook al worden zij door overheidinstanties uitgevoerd. Enkele voorbeelden:
+- het beheer van het onderwijsstelsel (d.w.z. regelgeving, inspecties, onderwijsprogramma's) valt onder deze sectie O, maar het onderwijs zelf valt onder afdeling 85 /""/Onderwijs/""/;
+- militaire en penitentiaire ziekenhuizen worden ingedeeld bij afdeling 86 /""/Gezondheidszorg/""/;
+- inzameling en verwerking van afvalwater en afval valt onder afdeling 38 /""/Milieudienstverlening/""/."
+"419000 ";"P Onderwijs";"Onderwijs
+Deze sectie omvat:
+- alle vormen van openbaar en particulier onderwijs, op elk niveau en voor elk beroep, zowel mondeling en schriftelijk als via radio en televisie. Zowel het onderwijs door de instellingen op de verschillende niveaus van het normale schoolstelsel als volwasseneneducatie, alfabetiseringsprogramma's e.d.
+Volwasseneneducatie waarvan de inhoud vergelijkbaar is met die van het onderwijs op een specifiek niveau wordt bij dat niveau ingedeeld. Op ieder niveau van het initiële onderwijs omvatten de klassen het speciale onderwijs aan lichamelijk of geestelijk gehandicapte leerlingen.
+ 
+Deze sectie omvat ook:
+- het overige onderwijs, zoals autorijscholen.
+
+Deze sectie omvat niet:
+- hoofdzakelijk op ontspanning gericht onderwijs, zoals bridge- en golflessen, dansonderwijs (93 of 94)."
+"422400 ";"Q Gezondheids- en welzijnszorg";"Gezondheids- en welzijnszorg
+Deze sectie omvat:
+- behandeling in algemene en gespecialiseerde ziekenhuizen;
+- geestelijke gezondheidszorg en verslavingszorg, eventueel in combinatie met overnachting;
+- behandeling door medische en paramedische praktijken;
+- ondersteunende activiteiten voor de gezondheidszorg, door bijvoorbeeld laboratoria en ambulancediensten;
+- verpleging, verzorging of begeleiding met huisvesting door bijvoorbeeld verpleeg- en verzorgingshuizen of via begeleid wonen;
+- welzijnszorg, zoals thuiszorg, lokaal welzijnswerk en hulp aan gehandicapten en ouderen;
+- kinderopvang."
+"300014 ";"R-U Cultuur, recreatie, overige diensten";"Cultuur, recreatie, overige diensten
+Deze categorie is een samentelling van categorieën: 
+R Cultuur, sport en recreatie
+S Overige dienstverlening
+T Huishoudens als werkgever; niet- gedifferentieerde productie van goederen en diensten door huishoudens voor eigen gebruik
+U Extraterritoriale organisaties en lichamen"
+"428100 ";"R Cultuur, sport en recreatie";"Cultuur, sport en recreatie
+Deze sectie omvat een wijde range aan activiteiten op het gebied van cultuur en recreatie, zoals culturele voorstellingen, musea, sport en recreatieve evenementen."
+"435500 ";"S Overige dienstverlening";"Overige dienstverlening
+Deze sectie omvat (als restcategorie) de activiteiten van belangenverenigingen, reparatie van computers en consumentenartikelen en veel andere activiteiten op het gebied van persoonlijke dienstverlening die niet elders zijn ingedeeld."
+"440000 ";"T Huishoudens";"Huishoudens als werkgever; niet-gedifferentieerde productie van goederen en diensten  door huishoudens voor eigen gebruik
+Deze sectie omvat:
+- particuliere huishoudens met huishoudelijk personeel, zoals dienstmeisjes, koks, huisknechten, butlers, tuinlieden, conciërges, staljongens, chauffeurs, huismeesters en babysitters."
+"440900 ";"U Extraterritoriale organisaties";"Extraterritoriale organisaties en lichamen
+Deze sectie omvat:
+- internationale organisaties, zoals de Verenigde Naties en hun gespecialiseerde en regionale organisaties, de Europese Unie, de Europese Vrijhandelsassociatie, de Organisatie voor Economische Samenwerking en Ontwikkeling, de Internationale Douaneraad, het Internationaal Monetair Fonds en de Wereldbank;
+- diplomatieke en consulaire vertegenwoordigingen wanneer zij waargenomen worden door het land van vestiging en niet door het land dat zij vertegenwoordigen.
+
+Deze sectie omvat niet:
+- Nederlandse diplomatieke en consulaire vertegenwoordigingen in het buitenland (84.21)."
+"A045808";"Afvalstortplaatsen";"Terrein voor opslag van afval.
+
+Tot stortplaats wordt gerekend:
+- Stortplaats;
+- Bijbehorende gebouwen, parkeerterreinen en bos- of heesterstroken."
+"Perioden"
+Key;Title;Description;Status
+"1990JJ00";"1990";"";"Definitief"
+"1991JJ00";"1991";"";"Definitief"
+"1992JJ00";"1992";"";"Definitief"
+"1993JJ00";"1993";"";"Definitief"
+"1994JJ00";"1994";"";"Definitief"
+"1995JJ00";"1995";"";"Definitief"
+"1996JJ00";"1996";"";"Definitief"
+"1997JJ00";"1997";"";"Definitief"
+"1998JJ00";"1998";"";"Definitief"
+"1999JJ00";"1999";"";"Definitief"
+"2000JJ00";"2000";"";"Definitief"
+"2001JJ00";"2001";"";"Definitief"
+"2002JJ00";"2002";"";"Definitief"
+"2003JJ00";"2003";"";"Definitief"
+"2004JJ00";"2004";"";"Definitief"
+"2005JJ00";"2005";"";"Definitief"
+"2006JJ00";"2006";"";"Definitief"
+"2007JJ00";"2007";"";"Definitief"
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019JJ00";"2019";"Voorlopige cijfers";"Voorlopig"
