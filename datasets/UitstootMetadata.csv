@@ -1,0 +1,18 @@
+Title,Description,Unit, Multiplier
+CO2,Kooldioxide.,kg, 1000000
+N2O,Lachgas.,kg, 1000000
+CH4,Methaan.,kg,1000000
+Broeikasgas-equivalent,Maatstaf die aangeeft in welke mate een stof bijdraagt aan het broeikaseffect. Eén broeikasgas-equivalent staat gelijk aan het effect dat de uitstoot van 1 kg kooldioxide (CO2) heeft. Zo staat de uitstoot van 1 kg methaan (CH4) gelijk aan 25 broeikasgas-equivalenten en is de uitstoot van 1 kg lachgas (N2O) gelijk aan 298 broeikasgas-equivalenten. De fluor(chloor)gassen hebben elk afzonderlijk een hoog CO2-equivalent. Hun bijdrage is echter gering omdat de uitgestoten hoeveelheden relatief klein zijn. De fluorchloorgassen zijn niet afzonderlijk in de tabel opgenomen maar wel inbegrepen in het totaal.,-,1000000
+NOx,"Stikstofoxiden (NOx = NO en NO2, berekend als NO2).
+Veroorzaakt verzuring en speelt een rol bij smogvorming.",kg, 1000000
+SO2,Zwaveldioxide.,kg, 1000000
+NH3,Ammoniak,kg,1000000
+Zuur-equivalent,"Maatstaf die aangeeft in welke mate een stof bijdraagt aan verzuring van het milieu. De emissie van 1 kg stikstofoxiden (NOx)  is gelijk gesteld aan 21,7 zuur-equivalent, de emissie van 1 kg zwaveldioxide (SO2) is gelijk aan 31,3 zuur-equivalent en de emissie van 1 kg ammoniak (NH3) is gelijk aan 58,8 zuur-equivalent.
+
+Een zuur-equivalent (zeq) is gelijk aan één mol H+. ", - , 1000000 
+CFK12-equivalent,Maatstaf die aangeeft in welke mate een stof bijdraagt aan de aantasting van de ozonlaag. De emissies van chloorfluorkoolwaterstofverbindingen (CFK's) en halonen zijn omgerekend naar CFK12-equivalenten. De omrekenfactoren zijn bepaald op basis van de mate waarin de verschillende CFK's en halonen de ozonlaag aantasten.,-,1000
+CO,Koolmonoxide.,kg, 1000000
+NMVOS,"Vluchtige organische verbindingen, exclusief methaan (NMVOS).
+Smogvormend en soms carcinogeen.",kg,1000000
+PM10,"Stofdeeltjes met een aerodynamische diameter kleiner dan 10 µm. De aerodynamische diameter van een stofdeeltje is gelijk aan de diameter van een bolvormig deeltje dat in de omgevingslucht hetzelfde gedrag vertoont als dat stofdeeltje.
+Schadelijk voor de gezondheid, dringt diep door in longen.",kg,1000000
